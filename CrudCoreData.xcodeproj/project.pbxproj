@@ -15,6 +15,7 @@
 		6A71A5E52175301B0092EEF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A71A5E32175301B0092EEF3 /* LaunchScreen.storyboard */; };
 		6A71A5F02175301B0092EEF3 /* CrudCoreDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A71A5EF2175301B0092EEF3 /* CrudCoreDataTests.swift */; };
 		6A71A5FB2175301B0092EEF3 /* CrudCoreDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A71A5FA2175301B0092EEF3 /* CrudCoreDataUITests.swift */; };
+		6A71A609217534C50092EEF3 /* UserDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A71A608217534C50092EEF3 /* UserDataViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6A71A5F62175301B0092EEF3 /* CrudCoreDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CrudCoreDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A71A5FA2175301B0092EEF3 /* CrudCoreDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrudCoreDataUITests.swift; sourceTree = "<group>"; };
 		6A71A5FC2175301B0092EEF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6A71A608217534C50092EEF3 /* UserDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				6A71A5D7217530170092EEF3 /* AppDelegate.swift */,
 				6A71A5D9217530170092EEF3 /* ViewController.swift */,
+				6A71A608217534C50092EEF3 /* UserDataViewController.swift */,
 				6A71A5DB217530170092EEF3 /* Main.storyboard */,
 				6A71A5E12175301B0092EEF3 /* Assets.xcassets */,
 				6A71A5E32175301B0092EEF3 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				6A71A5DA217530170092EEF3 /* ViewController.swift in Sources */,
 				6A71A5D8217530170092EEF3 /* AppDelegate.swift in Sources */,
 				6A71A5E0217530170092EEF3 /* CrudCoreData.xcdatamodeld in Sources */,
+				6A71A609217534C50092EEF3 /* UserDataViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
